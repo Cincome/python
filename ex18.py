@@ -14,7 +14,7 @@ def print_none():
 
 
 
-print_two("Mary","Tipton")
-print_two_again("Mary","Tipton")
+print_two("M.E","Tipton")
+print_two_again("M.E","Tipton")
 print_one("First!")
 print_none() 
